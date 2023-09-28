@@ -1062,18 +1062,6 @@ D:\Work\Etec\2023-2_3DS_PAMII\A09\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows
 D:\Work\Etec\2023-2_3DS_PAMII\A09\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Work\Etec\2023-2_3DS_PAMII\A09\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Work\Etec\2023-2_3DS_PAMII\A09\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.csproj.AssemblyReference.cache
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
-D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.exe
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.deps.json
@@ -1302,6 +1290,18 @@ D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-w
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.csproj.AssemblyReference.cache
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
 D:\3DS- Geovana\PAMIII\final\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png

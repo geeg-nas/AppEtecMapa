@@ -49,6 +49,33 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <AndroidResource Remove="Models\NewFolder1\**" />
+	  <AndroidResource Remove="Models\NewFolder2\**" />
+	  <AndroidResource Remove="Models\NewFolder3\**" />
+	  <AndroidResource Remove="Models\NewFolder4\**" />
+	  <Compile Remove="Models\NewFolder1\**" />
+	  <Compile Remove="Models\NewFolder2\**" />
+	  <Compile Remove="Models\NewFolder3\**" />
+	  <Compile Remove="Models\NewFolder4\**" />
+	  <EmbeddedResource Remove="Models\NewFolder1\**" />
+	  <EmbeddedResource Remove="Models\NewFolder2\**" />
+	  <EmbeddedResource Remove="Models\NewFolder3\**" />
+	  <EmbeddedResource Remove="Models\NewFolder4\**" />
+	  <MauiCss Remove="Models\NewFolder1\**" />
+	  <MauiCss Remove="Models\NewFolder2\**" />
+	  <MauiCss Remove="Models\NewFolder3\**" />
+	  <MauiCss Remove="Models\NewFolder4\**" />
+	  <MauiXaml Remove="Models\NewFolder1\**" />
+	  <MauiXaml Remove="Models\NewFolder2\**" />
+	  <MauiXaml Remove="Models\NewFolder3\**" />
+	  <MauiXaml Remove="Models\NewFolder4\**" />
+	  <None Remove="Models\NewFolder1\**" />
+	  <None Remove="Models\NewFolder2\**" />
+	  <None Remove="Models\NewFolder3\**" />
+	  <None Remove="Models\NewFolder4\**" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="Resources\Images\add.svg" />
 	  <None Remove="Resources\Images\etec_cps.svg" />
 	  <None Remove="Resources\Images\exit.svg" />
